@@ -1,2 +1,3 @@
 # Student-planner
-Right now drunk will write later
+- University students can use this application to plan their semester.
+- 
